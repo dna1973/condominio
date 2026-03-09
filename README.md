@@ -1,6 +1,6 @@
 # condominio
 
-Sistema de gestão condominial para administração de moradias.
+Sistema de gestão condominial voltado para a administração de moradias.
 
 ## 🚀 Demo
 
@@ -8,7 +8,7 @@ _Link não disponível._
 
 ## 🛠 Tecnologias
 
-`GitHub Portfolio IA (Ferramenta de geração)`
+`GitHub Portfolio IA (Gerador)`
 
 ## 📸 Screenshots
 
